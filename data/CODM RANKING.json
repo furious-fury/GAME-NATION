@@ -1,0 +1,66 @@
+[
+ {
+   "ign": "gg",
+   "clan": "hbbbb",
+   "playerID": 5555555,
+   "placepoint": 88,
+   "killpoint": 7,
+   "total": 95
+ },
+ {
+   "ign": "bright",
+   "clan": "aristocrats",
+   "playerID": 565545665,
+   "placepoint": 0,
+   "killpoint": 55,
+   "total": 55
+ },
+ {
+   "ign": "fury",
+   "clan": "dark dragons",
+   "playerID": 565545665,
+   "placepoint": 6,
+   "killpoint": 10,
+   "total": 16
+ },
+ {
+   "ign": "diff",
+   "clan": "ninja",
+   "playerID": 565545665,
+   "placepoint": 9,
+   "killpoint": 7,
+   "total": 16
+ }, 
+ {
+  "ign": "gg",
+  "clan": "hbbbb",
+  "playerID": 5555555,
+  "placepoint": 88,
+  "killpoint": 7,
+  "total": 95
+},
+{
+  "ign": "bright",
+  "clan": "aristocrats",
+  "playerID": 565545665,
+  "placepoint": 0,
+  "killpoint": 55,
+  "total": 55
+},
+{
+  "ign": "fury",
+  "clan": "dark dragons",
+  "playerID": 565545665,
+  "placepoint": 6,
+  "killpoint": 10,
+  "total": 16
+},
+{
+  "ign": "diff",
+  "clan": "ninja",
+  "playerID": 565545665,
+  "placepoint": 9,
+  "killpoint": 7,
+  "total": 16
+}
+]
